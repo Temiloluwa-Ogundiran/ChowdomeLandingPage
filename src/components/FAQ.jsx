@@ -8,7 +8,7 @@ const FAQ = () => {
             <div className="max-w-3xl mx-auto lg:text-center">
                <h2 className="text-3xl font-bold te:xt-black lg:leading-tight sm:text-4xl lg:text-5xl">
                   Frequently Asked{" "}
-                  <span className="font-serif text-yellow">Questions</span>
+                  <span className="font-serif text-cyellow">Questions</span>
                </h2>
             </div>
             <div className="grid max-w-3xl grid-cols-1 gap-6 mx-auto mt-8 md:mt-16 md:grid-cols-2">
