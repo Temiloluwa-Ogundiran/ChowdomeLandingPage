@@ -7,7 +7,7 @@ const Features = () => {
          <div className="max-w-xl mx-auto text-center">
             <h2 className="mt-6 text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">
                Chowdome helps you find
-               <span className="font-serif text-yellow"> Delicious </span>
+               <span className="font-serif text-cyellow"> Delicious </span>
                Food
             </h2>
             <p className="mt-4 text-base leading-relaxed text-gray-600">
