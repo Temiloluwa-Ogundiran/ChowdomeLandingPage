@@ -9,9 +9,12 @@ const Hero = () => {
                   <div className="bg-white rounded-full ">
                      <p className="text-sm font-medium">Let&apos;s eat</p>
                   </div>
+                  <a target="_blank" href="https://t.me/Chowdome_bot" rel="noreferrer">
+                  
                   <p className="text-sm font-medium">
                      Join Chowdome &rarr;
                   </p>
+                  </a>
                </div>
                <h1 className="mt-8 text-3xl font-normal tracking-tight text-black md:text-4xl lg:text-6xl">
                   Order Your

@@ -11,8 +11,7 @@ const Features = () => {
                Food
             </h2>
             <p className="mt-4 text-base leading-relaxed text-gray-600">
-               Discover, indulge, and elevate your culinary experience with Food
-               Zone. We're not just helping you find delicious food; we're
+               Discover, indulge, and elevate your culinary experience with Chowdome. We're not just helping you find delicious food; we're
                making it even better. Join us for a flavorful journey like no
                other.
             </p>
